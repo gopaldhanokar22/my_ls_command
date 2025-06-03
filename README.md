@@ -162,8 +162,9 @@ void print_file_info(const char *name, const struct stat *file_stat)
 
 __output:__
 
-![Screenshot 2025-06-03 184344](https://github.com/user-attachments/assets/7e4817a1-d46b-41ee-8e83-71b2d745a301)
-
+![Screenshot 2025-06-03 184344](https://github.com/user-attachments/assets/15a8ff00-96af-4e87-a6ea-8a324576a7bb)
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 
