@@ -158,11 +158,12 @@ void print_file_info(const char *name, const struct stat *file_stat)
 
     printf("\n");
 }
-'''
+```
 
 __output:__
 
-![WhatsApp Image 2025-06-03 at 19 07 50_c8450d60](https://github.com/user-attachments/assets/8487ae83-b391-4f0f-b19b-69e38e1d6368)
+
+![WhatsApp Image 2025-06-03 at 19 07 50_c8450d60](https://github.com/user-attachments/assets/6de7df5a-72b7-4ac6-8f18-e62e9e7103d0)
 
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
