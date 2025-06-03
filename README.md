@@ -162,7 +162,8 @@ void print_file_info(const char *name, const struct stat *file_stat)
 
 __output:__
 
-![Screenshot 2025-06-03 184344](https://github.com/user-attachments/assets/15a8ff00-96af-4e87-a6ea-8a324576a7bb)
+![WhatsApp Image 2025-06-03 at 19 07 50_c8450d60](https://github.com/user-attachments/assets/8487ae83-b391-4f0f-b19b-69e38e1d6368)
+
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
